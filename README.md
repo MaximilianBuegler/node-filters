@@ -1,6 +1,9 @@
 filters [![build status](https://secure.travis-ci.org/calmh/node-filters.png)](http://travis-ci.org/calmh/node-filters)
 =======
 
+# Notes by Maximilian Bügler
+    Added 2D mean filter.
+
 This module implements 1D noise reduction filters. There are currently two
 available:
 
